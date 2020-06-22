@@ -1,2 +1,4 @@
 # Tutorial_Tableau_CitiBike
-Citibike Tableau tutorial from Coursera
+<h2>Citibike Tableau tutorial from Coursera</h2>
+
+<img src="dashboard.png">
